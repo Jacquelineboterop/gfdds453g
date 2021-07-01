@@ -12,8 +12,8 @@ export class App extends Component {
       <div>
         <nav>
           <Route>
-            <Link to="/Page1">Pagina 1</Link>
-            <Link to="/Page2">Pagina 2</Link>
+            <Link to="/page1">Pagina 1</Link>
+            <Link to="/page2">Pagina 2</Link>
           </Route>
         </nav>
         <Switch>
